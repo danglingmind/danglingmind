@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prateek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateekreddy)](https://www.linkedin.com/in/prateekreddy) [![Gmail Badge](https://img.shields.io/badge/-prateekrdd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prateekrdd@gmail.com)](mailto:prateekrdd@gmail.com)  
 
+<img src="https://img.shields.io/github/followers/danglingmind?label=Follow&style=social">
 
  <br />
  <br />
