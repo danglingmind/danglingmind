@@ -21,15 +21,25 @@
 <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=danglingmind&layout=compact&theme=highcontrast&border_radius=10&hide_border=true">
 </a>
 
+ <br />
+
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = './img/go-logo.svg' width='50'/>
+ <img src = './img/python2.png' height='30'/>
+ <img src = './img/html.svg' width='30'/>
+ <img src = './img/css.svg' width='30'/>
+ <img src = './img/sql.svg' width='30'/> 
  
  <br />
  
- ## Technologies I Use
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+## Technologies I Use
+<img src = './img/docker-logo.png' width='45'/>
+ <img src = './img/jenkins_logo.svg' width='30'/>
+ <img src = './img/kubernetes-logo.svg' width='40'/>
+ <img src = './img/git.svg' width='39'/>
+ <img src = './img/react.svg' width='45'/>
  
+ <br />
  <br />
  
 
@@ -38,10 +48,6 @@
  * Getting Started with NodeJS and the MERN Stack!!
  <br />
  <br />
- <br />
- <br />
-
-
 
 <a href="#">
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=danglingmind&show_icons=true&theme=highcontrast&hide_border=true&border_radius=10">
