@@ -24,20 +24,12 @@
  <br />
 
 ## Programming Languages
-<img src = './img/go-logo.svg' width='50'/>
- <img src = './img/python2.png' height='30'/>
- <img src = './img/html.svg' width='30'/>
- <img src = './img/css.svg' width='30'/>
- <img src = './img/sql.svg' width='30'/> 
+<img src = './img/go-logo.svg' width='50'/> <img src = './img/python2.png' height='30'/> <img src = './img/html.svg' width='30'/> <img src = './img/css.svg' width='30'/> <img src = './img/sql.svg' width='30'/> 
  
  <br />
  
 ## Technologies I Use
-<img src = './img/docker-logo.png' width='45'/>
- <img src = './img/jenkins_logo.svg' width='30'/>
- <img src = './img/kubernetes-logo.svg' width='40'/>
- <img src = './img/git.svg' width='39'/>
- <img src = './img/react.svg' width='45'/>
+<img src = './img/docker-logo.png' width='45'/> <img src = './img/jenkins_logo.svg' width='30'/> <img src = './img/kubernetes-logo.svg' width='40'/> <img src = './img/git.svg' width='39'/> <img src = './img/react.svg' width='45'/>
  
  <br />
  <br />
