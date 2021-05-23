@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="./shikamaru.png" align="right"
-     alt="Jiraiya side image" width="450" height="700">
+     alt="Jiraiya side image" width="420" height="700">
 <!--
 **danglingmind/danglingmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
