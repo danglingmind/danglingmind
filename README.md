@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img src="./jiraiya.png" align="right"
+     alt="Jiraiya side image" width="120" height="178">
 <!--
 **danglingmind/danglingmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
