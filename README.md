@@ -37,8 +37,8 @@
  
 
 ## Current Works
- * I'm currently working on improving my System Design Skills and learning the Domain Driven Architecture with Hegagonal Coding Architecture, sounds cool right 😆
- * Getting Started with React JS and loving it!!
+ * I'm currently working on improving my System Design Skills and learning the **Domain Driven Architecture** with **Hegagonal Coding Architecture**, sounds cool right 😆
+ * Getting Started with **React JS** and loving it!!
  <br />
  <br />
 
