@@ -12,9 +12,8 @@
 
 
 ## :computer: What I Love
-* Go
 * Spending Hours for better System Design
-* Frontend and Backend Web Development
+* Creating something cool
 
  <br />
 
